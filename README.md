@@ -60,7 +60,7 @@ Intesso http://intesso.github.com/jquery-getCSS/
 IE special: http://msdn.microsoft.com/en-us/library/ie/ms531194(v=vs.85).aspx
 
 ## License 
-[MIT License](https://github.com/mjun/jquery-getCSS/master/LICENSE)
+[MIT License](https://github.com/mjun/jquery-getCSS/blob/master/LICENSE)
 
 ## Support or Contact
 If you have any questions or problems with this script feel free to contact me at: matko.jun@gmail.com
