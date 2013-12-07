@@ -1,0 +1,33 @@
+{
+    "name": "getCSS",
+    "title": "getCSS",
+    "description": "Cross browser function for dynamic loading of external CSS files.",
+    "keywords": [
+        "css",
+        "load",
+	"get"
+    ],
+    "version": "0.1",
+    "author": {
+        "name": "Matko Jun",
+        "url": "https://github.com/mjun"
+    },
+    "maintainers": [
+        {
+            "name": "Matko Jun",
+            "email": "matko.jun@gmail.com",
+            "url": "https://github.com/mjun"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://raw.github.com/mjun/jquery-getCSS/blob/master/LICENSE"
+        }
+    ],
+    "bugs": "https://github.com/mjun/jquery-getCSS/issues",
+    "homepage": "https://github.com/mjun/jquery-getCSS",
+    "docs": "https://github.com/mjun/jquery-getCSS",
+    "download": "https://github.com/mjun/jquery-getCSS",
+    "dependencies": {}
+}
